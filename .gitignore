@@ -1,0 +1,27 @@
+# === IntelliJ IDEA ===
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# === SBT build ===
+/target/
+/project/target/
+/project/project/
+
+# === BSP (Build Server Protocol) ===
+.bsp/
+
+# === Scala + Java ===
+*.class
+*.log
+
+# === System Files ===
+.DS_Store
+Thumbs.db
+
+# === VS Code (if applicable) ===
+.vscode/
+
+# === Others ===
+/out/
